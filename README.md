@@ -1,4 +1,4 @@
-# woodsonscioly-scripts
+# woodsonenviro
 
 This repository holds code for the static Woodson Environmental Club website. Expect further updates and additional content soon. 
 
